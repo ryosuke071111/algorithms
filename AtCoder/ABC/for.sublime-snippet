@@ -1,0 +1,10 @@
+<snippet>
+<description>Loop</description>
+<tabTrigger>f</tabTrigger>
+<scope>source.python</scope>
+<content>
+<![CDATA[
+for i in range():
+]]>
+</content>
+</snippet>
