@@ -1,0 +1,7 @@
+SET x 1
+SET y -2
+ADD x y
+SUB 2
+PRN x y
+ADD 1 y
+BAK

@@ -1,0 +1,19 @@
+SET x 1
+SET y 0
+ADD x y
+ADD 1 x
+CMP x 10
+JMP -3 0
+PRN x y
+CAL 5 x
+SUB 2
+PRN x y
+ADD 1 y
+BAK
+SET x in
+SET y 2
+ADD x y
+RET y
+
+
+
